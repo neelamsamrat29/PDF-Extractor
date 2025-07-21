@@ -1,2 +1,6 @@
 # PDF-Extractor
 I developed a Python tool to extract text and images from a PDF using PyMuPDF and Pillow. The extracted content was structured into a JSON file, including text and image paths. The code was modularized into separate scripts for text extraction, image extraction, and JSON generation, making it easy to maintain and extend.
+
+For this project, I created a Python-based system that can process a PDF document by extracting its text and images and structuring the information. I handled and saved the images using Pillow and extracted the text using PyMuPDF (fitz). A JSON structure was then created by combining the extracted content. To make the code more modular and maintainable, the project was divided into distinct modules: one for text extraction, another for image extraction, and a final one for producing the JSON output. I now have a better understanding of how to programmatically handle PDFs, modularize code for readability, and organize data for useful purposes.
+<img width="762" height="830" alt="image" src="https://github.com/user-attachments/assets/5df8f171-f92a-4662-ac35-eaac1f38b352" />
+<img width="1633" height="861" alt="image" src="https://github.com/user-attachments/assets/29458711-6edd-4935-8020-6fe8959d707e" />
